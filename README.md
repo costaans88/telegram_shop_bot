@@ -16,7 +16,7 @@
 
 У вас есть  токен? хорошо, скачивайте бота:
 ```
-git clone https://github.com/costaans88/telegram_test.git
+git clone https://github.com/costaans88/telegram_shop_bot.git
 ```
 Войдите в папку с ботом:
 cd telegram_test
